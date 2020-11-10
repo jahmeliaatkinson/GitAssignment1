@@ -1,3 +1,11 @@
+#igonre exe files
+*.exe
+#ignore o files
+
+*.o
+#ignore jar files
+*.jar
+
 # Compiled class file
 *.class
 
