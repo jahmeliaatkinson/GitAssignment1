@@ -6,6 +6,8 @@
 #ignore jar files
 *.jar
 
+lib/
+
 # Compiled class file
 *.class
 
